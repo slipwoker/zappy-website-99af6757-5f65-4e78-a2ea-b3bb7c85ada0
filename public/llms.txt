@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://theshirt-99af6757.zappy5.app
+https://example.com
 חנות חולצות הכדורגל המובילה בישראל מזמינה אתכם לגלות קולקציית ביגוד ספורט ייחודית. מחולצות שחקנים ועד פריטי אספנות, הצטרפו למועדון האוהדים האמיתי ולבשו את האהבה למגרש.
 
 ### קולקציות
-https://theshirt-99af6757.zappy5.app/collections
+https://example.com/collections
 צללו לתוך מגוון קולקציות ביגוד הספורט שלנו: מהדורות חדשות, קלאסיקות נצחיות ופריטים במהדורה מוגבלת. מצאו את הגופייה המושלמת לכל אוהד אמיתי ושדרגו את המלתחה.
 
 ### תרבות המועדון
-https://theshirt-99af6757.zappy5.app/club-culture
+https://example.com/club-culture
 מעבר לפריט הלבוש, גלו את הסיפורים, המורשת והאחווה שמאחורי כל קבוצה. הצטרפו לקהילת אוהדים שחיה ונושמת כדורגל, ולמדו מה הופך חולצה לסמל של שייכות אמיתית.
 
 ### צור קשר
-https://theshirt-99af6757.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה במציאת המידה המושלמת? רוצים להזמין ביגוד ספורט סיטונאי למועדון שלכם? צוות המומחים שלנו כאן לכל שאלה, בקשה או סתם שיחה על המשחק היפה. פנו אלינו עוד היום.
 
 ### תודה רבה
-https://theshirt-99af6757.zappy5.app/thank-you
+https://example.com/thank-you
 Theshirt - תודה רבה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://theshirt-99af6757.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://theshirt-99af6757.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://theshirt-99af6757.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://theshirt-99af6757.zappy5.app/contact
-- Endpoint: https://theshirt-99af6757.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -80,6 +80,6 @@ Sports Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://theshirt-99af6757.zappy5.app/sitemap.xml
-- Robots: https://theshirt-99af6757.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://theshirt-99af6757.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
