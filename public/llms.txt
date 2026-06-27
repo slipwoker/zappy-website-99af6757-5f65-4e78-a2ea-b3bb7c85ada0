@@ -1,0 +1,85 @@
+# Theshirt — Generative Engine Optimization Map
+
+> A football jersey store focused on selling soccer shirts. The business revolves around football apparel, likely targeting fans, players, or collectors who are passionate about the sport.
+
+---
+
+## Pages
+
+### בית
+https://theshirt-99af6757.zappy5.app
+חנות חולצות הכדורגל המובילה בישראל מזמינה אתכם לגלות קולקציית ביגוד ספורט ייחודית. מחולצות שחקנים ועד פריטי אספנות, הצטרפו למועדון האוהדים האמיתי ולבשו את האהבה למגרש.
+
+### קולקציות
+https://theshirt-99af6757.zappy5.app/collections
+צללו לתוך מגוון קולקציות ביגוד הספורט שלנו: מהדורות חדשות, קלאסיקות נצחיות ופריטים במהדורה מוגבלת. מצאו את הגופייה המושלמת לכל אוהד אמיתי ושדרגו את המלתחה.
+
+### תרבות המועדון
+https://theshirt-99af6757.zappy5.app/club-culture
+מעבר לפריט הלבוש, גלו את הסיפורים, המורשת והאחווה שמאחורי כל קבוצה. הצטרפו לקהילת אוהדים שחיה ונושמת כדורגל, ולמדו מה הופך חולצה לסמל של שייכות אמיתית.
+
+### צור קשר
+https://theshirt-99af6757.zappy5.app/contact
+צריכים עזרה במציאת המידה המושלמת? רוצים להזמין ביגוד ספורט סיטונאי למועדון שלכם? צוות המומחים שלנו כאן לכל שאלה, בקשה או סתם שיחה על המשחק היפה. פנו אלינו עוד היום.
+
+### תודה רבה
+https://theshirt-99af6757.zappy5.app/thank-you
+Theshirt - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://theshirt-99af6757.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://theshirt-99af6757.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://theshirt-99af6757.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://theshirt-99af6757.zappy5.app/contact
+- Endpoint: https://theshirt-99af6757.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Theshirt
+A football jersey store focused on selling soccer shirts. The business revolves around football apparel, likely targeting fans, players, or collectors who are passionate about the sport.
+
+## Target Audience
+- חובבי כדורגל מושבעים
+- שחקני ספורט צעירים
+- אספני בגדי ספורט
+- קונים מתנות לאוהדים
+- מבקרים באירועי ספורט
+- אנשים שאוהבים כדורגל
+
+## Industry
+Sports Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://theshirt-99af6757.zappy5.app/sitemap.xml
+- Robots: https://theshirt-99af6757.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://theshirt-99af6757.zappy5.app/llms-full.txt
